@@ -29,7 +29,7 @@
       fullName: function () {
         return this.firstName + ' ' + this.lastName
       }
-    }
+    },
     mounted() {
       this.init();
     },
